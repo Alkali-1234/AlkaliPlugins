@@ -1,0 +1,8 @@
+main: me.Alkali.AncientTrident.Main
+name: Trident
+version: 1.0.0
+author: Alkali1234
+api-version: 1.13
+
+commands:
+  Trident:
